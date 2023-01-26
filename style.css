@@ -38,12 +38,24 @@ form#login{
     background-color: #3F2368;
     display: block;
 
-    padding: 70px;
-    margin: 40px 40px 40px 40px;
+    padding: 20px;
+    margin: 20px;
+
+    border-radius: 20px;
 }
 
 div.grupo{
+  
+    padding: 20px;
+   
+    
+} 
+
+div.tudo{
+    border-radius: 20px;
     background-color: aqua;
     padding: 20px;
-    margin-right: 900px;
-} 
+    padding-right: 10px;
+    margin-right: 40%;
+    
+}
