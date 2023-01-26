@@ -1,1 +1,49 @@
 @charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+
+header{
+    text-align: center;
+    
+}
+
+h1#titulo{
+    font-size: 3em;
+    color: white;
+    background-color: #131313;
+    padding: 30px;
+    margin: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+h2#subtitulo{
+    font-size: 1.5em;
+    color: white;
+    background-color: #2C2C2C;
+    padding: 20px;
+    margin: 0px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+body{
+    background-color: #6D3AB7;
+}
+form#login{
+    background-color: #3F2368;
+    display: block;
+
+    padding: 70px;
+    margin: 40px 40px 40px 40px;
+}
+
+div.grupo{
+    background-color: aqua;
+    padding: 20px;
+    margin-right: 900px;
+} 
